@@ -15,5 +15,3 @@ def Person
     @job = job
   end
 end
-
-
